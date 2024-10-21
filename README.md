@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chad Wilson</h1>
-<h3 align="center">FullStack Developer & Security Engineer</h3>
+<h3 align="center">Red Teamer & FullStack Developer</h3>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=netpenguins" alt="netpenguins" /></a> </p> -->
 
